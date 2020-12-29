@@ -1,0 +1,182 @@
+﻿Build started 30-Dec-20 3:07:12 AM.
+     1>Project "D:\Download\Tu Anh-20201229T180627Z-001\Nghi\Nghi's app\Nghi's app\Nghi_s app.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (TuAnhApp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib "..\..\Nghi's app\Nghi's app\Album.cpp" "..\..\Nghi's app\Nghi's app\Any.cpp" "..\..\Nghi's app\Nghi's app\Callendar.cpp" "..\..\Nghi's app\Nghi's app\CallendarADD.cpp" "..\..\Nghi's app\Nghi's app\CallendarALL.cpp" "..\..\Nghi's app\Nghi's app\CallendarDetail.cpp" "..\..\Nghi's app\Nghi's app\CallendarEdit.cpp" "..\..\Nghi's app\Nghi's app\InfoForm1.cpp" "..\..\Nghi's app\Nghi's app\Memor.cpp" "..\..\Nghi's app\Nghi's app\MemorADD.cpp" "..\..\Nghi's app\Nghi's app\MemorADD1.cpp" "..\..\Nghi's app\Nghi's app\MemorADD2.cpp" "..\..\Nghi's app\Nghi's app\MyForm1.cpp" "..\..\Nghi's app\Nghi's app\MyUserControl.cpp" "..\..\Nghi's app\Nghi's app\NNYT.cpp" "..\..\Nghi's app\Nghi's app\NNYTProgress.cpp" "..\..\Nghi's app\Nghi's app\Request.cpp" "..\..\Nghi's app\Nghi's app\Setting.cpp" "..\..\Nghi's app\Nghi's app\StartForm1.cpp" GUI.cpp
+         Album.cpp
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\MemorADD2.h(303): warning C4129: 's' : unrecognized character escape sequence
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Album.h(164): warning C4101: 'e' : unreferenced local variable
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Album.h(258): warning C4101: 'filename' : unreferenced local variable
+         Any.cpp
+         Callendar.cpp
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(325): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(326): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(327): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(328): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(329): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(330): warning C4305: 'argument' : truncation from 'double' to 'float'
+         CallendarADD.cpp
+         CallendarALL.cpp
+         CallendarDetail.cpp
+         CallendarEdit.cpp
+         InfoForm1.cpp
+         Memor.cpp
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(322): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(317) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(284) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(323): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(317) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(284) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(324): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(317) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(284) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(325): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(317) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(284) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(326): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(317) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(284) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(485): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(480) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(447) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(486): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(480) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(447) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(487): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(480) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(447) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(488): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(480) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(447) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(489): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(480) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(447) : definition of 'i' used
+         MemorADD.cpp
+         MemorADD1.cpp
+         MemorADD2.cpp
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\MemorADD2.h(303): warning C4129: 's' : unrecognized character escape sequence
+         MyForm1.cpp
+         MyUserControl.cpp
+         NNYT.cpp
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\NNYTProgress.h(121): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\NNYT.h(152): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+         NNYTProgress.cpp
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\NNYTProgress.h(121): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+         Request.cpp
+         Setting.cpp
+         StartForm1.cpp
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\NNYTProgress.h(121): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\NNYT.h(152): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(325): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(326): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(327): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(328): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(329): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(330): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(322): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(317) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(284) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(323): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(317) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(284) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(324): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(317) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(284) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(325): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(317) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(284) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(326): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(317) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(284) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(485): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(480) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(447) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(486): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(480) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(447) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(487): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(480) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(447) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(488): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(480) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(447) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(489): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(480) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(447) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\MemorADD2.h(303): warning C4129: 's' : unrecognized character escape sequence
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Album.h(164): warning C4101: 'e' : unreferenced local variable
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Album.h(258): warning C4101: 'filename' : unreferenced local variable
+         GUI.cpp
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\NNYTProgress.h(121): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\NNYT.h(152): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(325): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(326): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(327): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(328): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(329): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Callendar.h(330): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(322): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(317) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(284) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(323): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(317) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(284) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(324): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(317) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(284) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(325): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(317) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(284) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(326): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(317) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(284) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(485): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(480) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(447) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(486): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(480) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(447) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(487): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(480) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(447) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(488): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(480) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(447) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(489): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(480) : definition of 'i' ignored
+                 d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Memor.h(447) : definition of 'i' used
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\MemorADD2.h(303): warning C4129: 's' : unrecognized character escape sequence
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Album.h(164): warning C4101: 'e' : unreferenced local variable
+     1>d:\download\tu anh-20201229t180627z-001\nghi\nghi's app\nghi's app\Album.h(258): warning C4101: 'filename' : unreferenced local variable
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"Release\Nghis app.res" "..\..\Nghi's app\Nghi's app\Nghis app.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Download\Tu Anh-20201229T180627Z-001\Nghi\Nghi's app\Release\NHHH1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Release\Nghisapp.Album.resources /ASSEMBLYRESOURCE:Release\Nghisapp.Any.resources /ASSEMBLYRESOURCE:Release\Nghisapp.Callendar.resources /ASSEMBLYRESOURCE:Release\Nghisapp.CallendarADD.resources /ASSEMBLYRESOURCE:Release\Nghisapp.CallendarALL.resources /ASSEMBLYRESOURCE:Release\Nghisapp.CallendarDetail.resources /ASSEMBLYRESOURCE:Release\Nghisapp.CallendarEdit.resources /ASSEMBLYRESOURCE:Release\Nghisapp.InfoForm.resources /ASSEMBLYRESOURCE:Release\Nghisapp.Memor.resources /ASSEMBLYRESOURCE:Release\Nghisapp.MemorADD.resources /ASSEMBLYRESOURCE:Release\Nghisapp.MemorADD1.resources /ASSEMBLYRESOURCE:Release\Nghisapp.MemorADD2.resources /ASSEMBLYRESOURCE:Release\Nghisapp.NNYT.resources /ASSEMBLYRESOURCE:Release\Nghisapp.NNYTProgress.resources /ASSEMBLYRESOURCE:Release\Nghisapp.Request.resources /ASSEMBLYRESOURCE:Release\Nghisapp.Setting.resources /ASSEMBLYRESOURCE:Release\Nghisapp.StartForm.resources /ASSEMBLYRESOURCE:Release\Nghisapp.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Download\Tu Anh-20201229T180627Z-001\Nghi\Nghi's app\Release\NHHH1.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"main" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Download\Tu Anh-20201229T180627Z-001\Nghi\Nghi's app\Release\NHHH1.lib" /MACHINE:X86 /SAFESEH "Release\Nghis app.res"
+         Release\Album.obj
+         Release\Any.obj
+         Release\Callendar.obj
+         Release\CallendarADD.obj
+         Release\CallendarALL.obj
+         Release\CallendarDetail.obj
+         Release\CallendarEdit.obj
+         Release\InfoForm1.obj
+         Release\Memor.obj
+         Release\MemorADD.obj
+         Release\MemorADD1.obj
+         Release\MemorADD2.obj
+         Release\MyForm1.obj
+         Release\MyUserControl.obj
+         Release\NNYT.obj
+         Release\NNYTProgress.obj
+         Release\Request.obj
+         Release\Setting.obj
+         Release\StartForm1.obj
+         Release\GUI.obj
+         LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+         Nghi_s app.vcxproj -> D:\Download\Tu Anh-20201229T180627Z-001\Nghi\Nghi's app\Release\NHHH1.exe
+     1>Done Building Project "D:\Download\Tu Anh-20201229T180627Z-001\Nghi\Nghi's app\Nghi's app\Nghi_s app.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:10.90
