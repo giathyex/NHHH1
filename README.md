@@ -6,9 +6,12 @@ Hope you all can find peace on your way <br />
 Be strong, take care <br />
 
 
-![Alt text](Demo_Picture/1.PNG?raw=true "Title")
-
-![Screenshot](Demo_Picture/1.PNG)
+<p align="center">
+  <br>
+  <img src="Demo_Picture/1.PNG">
+  <img src="Demo_Picture/2.PNG">
+  <br>
+</p>
 
 
 
