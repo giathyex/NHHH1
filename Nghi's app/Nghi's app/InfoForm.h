@@ -137,7 +137,7 @@ namespace Nghisapp {
 			this->Controls->Add(this->label2);
 			this->Controls->Add(this->label1);
 			this->Controls->Add(this->pictureBox1);
-			this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
+			this->Icon = gcnew System::Drawing::Icon(L"Picture/Main/nhhh.ico");
 			this->MaximizeBox = false;
 			this->Name = L"InfoForm";
 			this->Text = L"NHHH1 - Thông tin";

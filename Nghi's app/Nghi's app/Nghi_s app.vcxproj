@@ -516,16 +516,6 @@
       <DependentUpon>MyForm.h</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="..\..\Nghi%27s app\Nghi%27s app\Nghis app.rc" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\Nghi%27s app\Nghi%27s app\Image1.bmp" />
-    <Image Include="..\..\Nghi%27s app\Nghi%27s app\picture.bmp" />
-    <Image Include="..\..\Nghi%27s app\Nghi%27s app\picture.image.bmp" />
-    <Image Include="..\..\Nghi%27s app\Nghi%27s app\picture.png" />
-    <Image Include="..\Picture\Main\Tú Anha.png" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

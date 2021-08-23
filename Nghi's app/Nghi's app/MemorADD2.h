@@ -321,11 +321,11 @@ namespace Nghisapp {
 			this->Controls->Add(this->pictureBox1);
 			this->Controls->Add(this->pictureBox2);
 			this->Controls->Add(this->label5);
-			this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
+			this->Icon = gcnew System::Drawing::Icon(L"Picture/Main/nhhh.ico");
 			this->MaximizeBox = false;
 			this->MinimizeBox = false;
 			this->Name = L"MemorADD2";
-			this->Text = L"Software for Tú - Album ảnh - Sửa";
+			this->Text = L"NHHH1 - Album ảnh - Sửa";
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->EndInit();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox2))->EndInit();
 			this->ResumeLayout(false);

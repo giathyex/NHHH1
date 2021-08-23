@@ -1170,10 +1170,10 @@ namespace Nghisapp {
 			this->Controls->Add(this->labelm);
 			this->Controls->Add(this->button1);
 			this->Controls->Add(this->pictureBox1);
-			this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
+			this->Icon = gcnew System::Drawing::Icon(L"Picture/Main/nhhh.ico");
 			this->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->Name = L"Callendar";
-			this->Text = L"Software for Tú - Lịch";
+			this->Text = L"NHHH1 - Lịch";
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->EndInit();
 			this->tableLayoutPanel1->ResumeLayout(false);
 			this->tableLayoutPanel1->PerformLayout();

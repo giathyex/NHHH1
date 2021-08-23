@@ -355,9 +355,9 @@ namespace Nghisapp {
 			this->Controls->Add(this->trackBar1);
 			this->Controls->Add(this->button1);
 			this->Controls->Add(this->pictureBox1);
-			this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
+			this->Icon = gcnew System::Drawing::Icon(L"Picture/Main/nhhh.ico");
 			this->Name = L"Memor";
-			this->Text = L"Software for Tú - Kỷ niệm";
+			this->Text = L"NHHH1 - Kỷ niệm";
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->EndInit();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->trackBar1))->EndInit();
 			this->ResumeLayout(false);

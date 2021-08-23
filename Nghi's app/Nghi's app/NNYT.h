@@ -772,10 +772,10 @@ namespace Nghisapp {
 			this->Controls->Add(this->label4);
 			this->Controls->Add(this->label3);
 			this->Controls->Add(this->label2);
-			this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
+			this->Icon = gcnew System::Drawing::Icon(L"Picture/Main/nhhh.ico");
 			this->MaximizeBox = false;
 			this->Name = L"NNYT";
-			this->Text = L"Software for Tú - Ngôi nhà yêu thương";
+			this->Text = L"NHHH1 - Ngôi nhà yêu thương";
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->picture))->EndInit();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureHome11))->EndInit();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureHome12))->EndInit();

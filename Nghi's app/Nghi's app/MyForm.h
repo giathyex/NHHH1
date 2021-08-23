@@ -168,7 +168,7 @@ namespace Nghisapp {
 			this->Controls->Add(this->button3);
 			this->Controls->Add(this->button2);
 			this->Controls->Add(this->HelloNghi);
-			this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
+			this->Icon = gcnew System::Drawing::Icon(L"Picture/Main/nhhh.ico");
 			this->MaximizeBox = false;
 			this->Name = L"MyForm";
 			this->Text = L"NHHH1";

@@ -420,10 +420,10 @@ namespace Nghisapp {
 			this->Controls->Add(this->label1);
 			this->Controls->Add(this->Badge);
 			this->Controls->Add(this->picture);
-			this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
+			this->Icon = gcnew System::Drawing::Icon(L"Picture/Main/nhhh.ico");
 			this->MaximizeBox = false;
 			this->Name = L"NNYTProgress";
-			this->Text = L"Software for Tú - Ngôi nhà yêu thương - Quá trình";
+			this->Text = L"NHHH1 - Ngôi nhà yêu thương - Quá trình";
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->picture))->EndInit();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->Badge))->EndInit();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->Nha1))->EndInit();

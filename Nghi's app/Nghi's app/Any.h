@@ -120,7 +120,7 @@ namespace Nghisapp {
 			this->Controls->Add(this->pictureBox2);
 			this->Controls->Add(this->label1);
 			this->Controls->Add(this->pictureBox1);
-			this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
+			this->Icon = gcnew System::Drawing::Icon(L"Picture/Main/nhhh.ico");
 			this->MaximizeBox = false;
 			this->Name = L"Any";
 			this->Text = L"NHHH1 - Ngôi nhà yêu thương - Anniversary";
