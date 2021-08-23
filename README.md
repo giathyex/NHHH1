@@ -6,7 +6,7 @@ Hope you all can find peace on your way <br />
 Be strong, take care <br />
 
 
-![Alt text](Demo_Picture/1.png?raw=true "Title")
+![Alt text](Demo_Picture/1.PNG?raw=true "Title")
 
 
 
